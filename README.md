@@ -3,7 +3,7 @@
 ## AIM:
 To create a UX design and develop a web application for event registration.
 ## DESIGN STEPS:
-![output](./static/img/designstep.jpg)
+![output](./static/img/designsteps.jpg)
 
 
 ## DESIGN SCREENS:
